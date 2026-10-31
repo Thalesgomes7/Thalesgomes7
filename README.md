@@ -34,8 +34,12 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Thalesgomes7/Thalesgomes7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Thalesgomes7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Thalesgomes7/Thalesgomes7/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
+  <p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Thalesgomes7&theme=dracula&no-frame=true&no-bg=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 </div>
 
 ###
