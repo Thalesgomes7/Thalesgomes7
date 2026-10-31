@@ -34,12 +34,17 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Thalesgomes7/Thalesgomes7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Thalesgomes7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Thalesgomes7&theme=dracula&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
+ <h2 align="center">🏆 Conquistas da Jornada</h2>
+
+| Conquista | Descrição |
+|:---:|:---|
+| 💻 | Estudante de Informática para Internet |
+| 🌐 | Desenvolvimento com HTML, CSS e JavaScript |
+| ⚙️ | Primeiros projetos com Node.js |
+| 🤖 | Projetos com Arduino e C++ |
+| 🚀 | Desenvolvimento de projetos Full Stack |
+| 📚 | Aprendizado contínuo em tecnologia |
+
 </div>
 
 ###
